@@ -1,5 +1,13 @@
 {
-    "text": "Hello, this is a test of the Kyutai TTS 1.6B model. The automation script is working correctly and generating audio from text.",
-    "voice": "Show host (US, m)",
-    "chunkSize": 500
+  "voice": "Show host (US, m)",
+  "parts": [
+    {
+      "id": 3,
+      "text": "She slammed the lid like closing a door on fire. But fire doesn't care about doors. The first thought came gentle. Keep one stone. Just one. He's dead. The monastery doesn't know this chest exists. She shook her head. Then the thought returned dressed differently. You've bled nineteen years. One sapphire isn't greed, it's a wage the universe owes you. She pressed her palms against her eyes."
+    },
+    {
+      "id": 7,
+      "text": "And the thought returned one final time, no longer whispering, speaking now in her own voice, calm and clear and terrifyingly reasonable."
+    }
+  ]
 }
