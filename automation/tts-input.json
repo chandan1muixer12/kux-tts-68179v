@@ -1,5 +1,5 @@
 {
-  "voice": "Show host (US, m)",
+  "voice": "Desire (US, m)",
   "parts": [
     {
       "id": 3,
@@ -7,7 +7,15 @@
     },
     {
       "id": 7,
-      "text": "And the thought returned one final time, no longer whispering, speaking now in her own voice, calm and clear and terrifyingly reasonable."
+      "text": "And the thought returned one final time, no longer whispering, speaking now in her own voice, calm and clear and terrifyingly reasonable. The wind pushed salt into her eyes as Maren stood at the fork, the chest pulling her shoulder down like an anchor made of her own heartbeat."
+    },
+    {
+      "id": 11,
+      "text": "One only. Enough for a boat of her own, enough to leave the cliff forever. She lifted it. Closed her fist. Closed the lid. Carried the chest the rest of the way to the monastery alone while the sapphire burned a hole against her heart. At the gate the monks took the chest without surprise, as if strangers delivered dead men’s promises every moon. They gave her a bowl of barley soup and a straw mat for the night. Nothing more."
+    },
+    {
+      "id": 15,
+      "text": "Share this with someone who is awake at night asking the same questions. And tell me in the comments — what did this story make you see about yourself? See you in the next one."
     }
   ]
 }
